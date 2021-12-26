@@ -5,7 +5,7 @@
 
 I am @J-P-S-O
 
-- 🔭 I’m currently working on *rat*, a Rust tool that spies on your computer 💀
+- 🔭 I’m currently working on *statix*, a Rust static file server
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Javascript
 - 📫 How to reach me: create an issue at [J-P-S-O/J-P-S-O](https://github.com/J-P-S-O/J-P-S-O)
