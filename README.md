@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=9&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=8&theme=dark&layout=compact)
 
 
 I am @Octalbyte
