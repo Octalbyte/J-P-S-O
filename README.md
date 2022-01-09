@@ -3,6 +3,8 @@
 
 I am @Octalbyte 🐙
 
+**BTC Wallet: 3NC14JNuzdLkxJTdNa6bnFXaYzMKMc1Uwt** (Please, I am just a broke teenager)
+
 - 🔭 I’m currently working on [statix](https://github.com/statix-server/statix), a Rust static file server
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Javascript
