@@ -2,9 +2,8 @@
 
 
 I am @Octalbyte 🐙
-
-Wallets (Please, I am just a broke teenager):
 ```json
+// Wallets to which you can donate :)
 {
   "BTC": "3NC14JNuzdLkxJTdNa6bnFXaYzMKMc1Uwt",
   "ETH": "0xc41c0f847d58121f552c683e454ddafeb415f25e",
