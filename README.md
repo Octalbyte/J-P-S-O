@@ -9,6 +9,8 @@ Wallets (Please, I am just a broke teenager):
 - **ETH Wallet: 0xc41c0f847d58121f552c683e454ddafeb415f25e**
 - **XMR Wallet: 875smxvwbP64MFZnHrHwHcGahoEB4a5ARGCBidr95LqL4GEPiB4T8J74UB5TzrXK3wbTZ1iidfYoV37KZq1vqWCQSNztDAF**
 
+About me: 
+
 - 🔭 I’m currently working on [statix](https://github.com/statix-server/statix), a Rust static file server
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Javascript
