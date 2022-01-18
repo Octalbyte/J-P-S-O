@@ -17,7 +17,7 @@ About me:
   - [statix](https://github.com/statix-server/statix), a Rust static file server (complete)
   - A protocol for secure data exchange... (wip)
   - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip)
-  - `is-tor`, a pure Rust library to identify if an IP is a Tor exit node 🧅
+  - `is-tor`, a pure Rust library to identify if an IP is a Tor exit node 🧅 (wip)
   - [tiny-keylogger](https://github.com/Octalbyte/tiny-keylogger), a tiny simple keystroke logger (complete)
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Javascript**
