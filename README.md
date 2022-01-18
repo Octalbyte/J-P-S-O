@@ -13,7 +13,11 @@ I am @Octalbyte 🐙
 
 About me: 
 
-- 🔭 I’m currently working on [statix](https://github.com/statix-server/statix), a Rust static file server
+- 🔭 I’m currently working on 
+  - [statix](https://github.com/statix-server/statix), a Rust static file server (complete)
+  - A protocol for secure data exchange... (wip)
+  - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip)
+  - `is-tor`, a pure Rust library to identify if an IP is a Tor exit node 🧅
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Javascript
 - 📫 How to reach me: octalbyte0o52@protonmail.com or [my discussions page](https://github.com/Octalbyte/Octalbyte/discussions/2)
