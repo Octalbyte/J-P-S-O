@@ -1,7 +1,7 @@
 <!--![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=8&theme=dark&layout=compact)-->
 
 
-I am **@Octalbyte 🐙
+I am **@Octalbyte** 🐙
 ```toml
 # Wallets to which you can donate :)
 
