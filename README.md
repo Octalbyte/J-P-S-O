@@ -1,7 +1,7 @@
 <!--![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=8&theme=dark&layout=compact)-->
 
 
-I am @Octalbyte 🐙
+I am **@Octalbyte 🐙
 ```toml
 # Wallets to which you can donate :)
 
@@ -19,6 +19,7 @@ About me:
   - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip)
   - [`istor`](https://github.com/onionstuff/is-tor-rs), a pure Rust library to identify if an IP is a Tor exit node 🧅
   - [tiny-keylogger](https://github.com/Octalbyte/tiny-keylogger), a tiny simple keystroke logger 
+  - [minparse](https://github.com/Octalbyte/minparse), a minimal, zero-configuration argument parser for Rust
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Javascript**
 - 📫 How to reach me: octalbyte0o52@protonmail.com or [my discussions page](https://github.com/Octalbyte/Octalbyte/discussions/2)
