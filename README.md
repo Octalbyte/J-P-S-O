@@ -26,3 +26,4 @@ About me:
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: I am afraid of blood and heights.
 
+[![Octalbyte](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=11&hide=typescript&layout=compact&theme=dark)](https://github.com/Octalbyte)
