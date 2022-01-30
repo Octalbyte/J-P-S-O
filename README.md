@@ -14,7 +14,7 @@ I am **@Octalbyte** 🐙
 About me: 
 
 - 🔭 Some of my projects are:
-  - [statix](https://github.com/statix-server/statix), a Rust static file server 
+  - [statix](https://github.com/Octalbyte/statix), a Rust static file server 
   - A protocol for secure data exchange... (wip)
   - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip)
   - [istor](https://github.com/onionstuff/is-tor-rs), a pure Rust library to identify if an IP is a Tor exit node 🧅
