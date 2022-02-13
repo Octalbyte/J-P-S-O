@@ -16,7 +16,7 @@ About me:
 - 🔭 Some of my projects are:
   - [statix](https://github.com/Octalbyte/statix), a Rust static file server 
   - A protocol for secure data exchange... (wip)
-  - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip)
+<!--  - [locker](https://github.com/Octalbyte/locker), a Rust app to securely store files or passwords (wip) -->
   - [istor](https://github.com/onionstuff/is-tor-rs), a pure Rust library to identify if an IP is a Tor exit node 🧅
   - [tiny-keylogger](https://github.com/Octalbyte/tiny-keylogger), a tiny simple keystroke logger 
   - [minparse](https://github.com/Octalbyte/minparse), a minimal, zero-configuration argument parser for Rust
