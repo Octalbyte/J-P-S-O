@@ -16,12 +16,13 @@ About me:
 
 - 🔭 Some of my projects are:
   - [statix](https://github.com/Octalbyte/statix), a Rust static file server 
-  - A protocol for secure data exchange... (wip)
+  - [asker](https://github.com/Octalbyte/asker), a Rust library to easily get input
   - [istor](https://github.com/onionstuff/is-tor-rs), a pure Rust library to identify if an IP is a Tor exit node 🧅
   - [tiny-keylogger](https://github.com/Octalbyte/tiny-keylogger), a tiny simple keystroke logger 
   - [minparse](https://github.com/Octalbyte/minparse), a minimal, zero-configuration argument parser for Rust
-- 🌱 I’m currently learning **Rust** and **V**
-- 💬 Ask me about **Javascript**
+  - A protocol for secure data exchange... (wip)
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **Node.js** and **Rust**
 - 📫 How to reach me: octalbyte0o52@protonmail.com or [my discussions page](https://github.com/Octalbyte/Octalbyte/discussions/2)
 - 😄 Pronouns: he/him/they
 
