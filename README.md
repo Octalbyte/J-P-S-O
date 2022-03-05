@@ -24,6 +24,5 @@ About me:
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Node.js** and **Rust**
 - 📫 How to reach me: octalbyte0o52@protonmail.com or [my discussions page](https://github.com/Octalbyte/Octalbyte/discussions/2)
-- 😄 Pronouns: he/him/they
 
 [![Octalbyte](https://github-readme-stats.vercel.app/api/top-langs?username=Octalbyte&langs_count=10&layout=compact&theme=dark)](https://github.com/Octalbyte)
